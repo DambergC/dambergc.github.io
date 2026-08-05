@@ -4,9 +4,9 @@ title: New start of my blogsite
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [misc]
 comments: false
-mathjax: true
+mathjax: false
 author: Christian Damberg
 ---
 Finally am i online again...
