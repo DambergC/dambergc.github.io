@@ -9,4 +9,6 @@ comments: false
 mathjax: true
 author: Christian Damberg
 ---
-Finaly am i online again...
+Finally am i online again...
+
+For a some years i have had my site at one.com but have now moved it to github-page instead in same place where i have all my scripts and projects.
