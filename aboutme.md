@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: All about me and my life, work and private
 ---
----
+
 | Name|Info  |
 |--|--|
 | Name |Christian Damberg |
@@ -13,7 +13,7 @@ subtitle: All about me and my life, work and private
 | Country|Sweden |
 | Language|Swedish, English|
 | Employer|Telia Cygate AB|
----
+
 ...more to come
 
 
