@@ -21,6 +21,7 @@ author: Christian Damberg, IT Consulting Analyst Senior Professional
 
 navbar-links:
   About Me: "aboutme"
+  Powershell: "powershell"
   Resources:
 ##    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
